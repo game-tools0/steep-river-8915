@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "steep-river-8915",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "29111eab-d380-4c3c-a979-1bfc21b10645",
+      "database_name": "mute-fog-0ddf-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
